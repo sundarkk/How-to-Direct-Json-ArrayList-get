@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AssignOla</string>
+    <string name="hide">Hide</string>
+    <string name="trending">Trending</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="check_your_internet_connection">check your internet connection</string>
+    <string name="jone">John</string>
+    <string name="way_of_hill">Way of hill</string>
+    <string name="retry">Retry</string>
+</resources>
